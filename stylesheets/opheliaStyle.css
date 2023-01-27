@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Kimberlly';
+    src: url('../fonts/Kimberlly.otf');
+}
+
+body {
+    background-color: #000;
+}
+
+.header-text {
+    display: flex;
+    justify-content: center;
+    font-family: 'Kimberlly';
+    color: #fff;
+}
