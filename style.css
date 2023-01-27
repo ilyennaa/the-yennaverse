@@ -32,6 +32,24 @@
     border-radius: 5%;
 }
 
+.names {
+    margin-top: 3%;
+    color: #fff;
+    font-family: 'Kimberlly';
+    display: flex;
+    justify-content: center;
+}
+
+.holly-name,
+.jenny-name,
+.jovo-name,
+.ophelia-name {
+    position: absolute;
+    font-size: 2em;
+    opacity: 0;
+    transition: 0.3s;
+}
+
 body {
     background-color: #000;
 }
